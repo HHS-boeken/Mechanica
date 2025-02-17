@@ -9,7 +9,7 @@ b) Bereken de rotaties $\varphi_A$ en $\varphi_B$ in de opleggingen.
 <hr style="border:1px solid #9EA700">
 
 
-````{admonition} Antwoord
+````{admonition} Antwoord a)
 :class:  dropdown
 
 De gesplitste en vereenvoudigde breuk is:
@@ -127,10 +127,24 @@ w_{max} &= +\frac{1q}{384EI}L^4 - \frac{4ql}{384EI}L^3 + \frac{8ql^3}{384EI}L\\
 w_{max} &= +\frac{5}{384}\frac{qL^4}{EI} \\ 
 \end{align*}
 $$
+```
+````
 
 <hr style="border:2px solid #9EA700">
 
+````{admonition} Antwoord b)
+:class:  dropdown
 
+De gesplitste en vereenvoudigde breuk is:
+
+$$
+\begin{align}
+ & x + 4 + \frac{1}{x}
+\end{align}
+$$
+
+```{admonition} Uitwerking
+:class:  dropdown
 \section*{b) b) Bereken de rotaties $\varphi_A$ en $\varphi_B$ in de opleggingen.}
 
 Het verloop van de rotaties $\varphi_A$ en $\varphi_B$ vindt men met behulp van de vorige vraag:
