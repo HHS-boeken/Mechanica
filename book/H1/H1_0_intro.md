@@ -1,1 +1,1 @@
-
+# Statische bepaalde constructie - Integratiemethode 
