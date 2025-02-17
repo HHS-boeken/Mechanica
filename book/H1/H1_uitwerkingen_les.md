@@ -8,6 +8,20 @@ b) Bereken de rotaties $\varphi_A$ en $\varphi_B$ in de opleggingen.
 
 <hr style="border:1px solid #9EA700">
 
+
+````{admonition} Antwoord
+:class:  dropdown
+
+De gesplitste en vereenvoudigde breuk is:
+
+$$
+\begin{align}
+ & x + 4 + \frac{1}{x}
+\end{align}
+$$
+
+```{admonition} Uitwerking
+:class:  dropdown
 a) Bereken de maximale verplaatsing $w_{max}$ in het midden van de ligger $x = \frac{1}{2}l$.
 
 De differentiaalvergelijking luidt:
@@ -152,4 +166,5 @@ $$
 \varphi_B &= +\frac{1ql^3}{24EI} \\
 \end{align*}\\
 $$
-
+```
+````
