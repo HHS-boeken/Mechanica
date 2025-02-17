@@ -4,12 +4,6 @@ root: intro.md
 parts:
   - caption: Opgaven en Uitwerkingen lessen
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: exercises
-      sections:
-      - file: exercises/001.md
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+    - file: H1/H1_0_intro
+    sections:
+    - file: H1/H1_opgaven_les
