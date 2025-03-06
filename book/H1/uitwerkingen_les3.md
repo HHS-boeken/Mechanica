@@ -128,3 +128,19 @@ tussen $[6 < x < 8]$ geldt;
 \begin{align}
  EIv_2 &= -\dfrac{5}{12}x^4+\dfrac{10}{3}x^3+80x^2 -1000x + 2880
 \end{align}
+
+Absoluut minimuum als $EI\dfrac{dv_2}{dx} = 0$ , dus:
+
+\begin{align}
+ EI\dfrac{dv_2}{dx} &= 0 \\
+ -\dfrac{5}{3}x^3+10x^2+160x+C_3 &=0 \\
+\end{align}
+
+Dit is een derdegraads vergelijking deze kunnen we niet analytisch oplossen. \\
+Numeriek kunnen we de x-coordinaat van het absolute maximum wel vinden namelijk,
+
+\begin{align}
+EIv_2 &= -\dfrac{5}{12}\cdot 6.43^4 + \dfrac{10}{3} \cdot 6.43^3 + 80 \cdot 6.43^2 - 1000 \cdot 6.43 + 2880 \\
+EIv_2 & \approx -68.50 \\
+v_2 & \approx -\dfrac{-68.50}{EI}
+\end{align}
