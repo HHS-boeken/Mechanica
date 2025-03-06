@@ -6,5 +6,5 @@ parts:
     chapters:
     - file: H1/H1_0_intro
       sections:
-      - file: H1/Opgave_les3
+      - file: H1/Opgave_les3.nb
     
