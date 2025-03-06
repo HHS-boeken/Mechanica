@@ -151,16 +151,16 @@ Het verloop van de rotaties $\varphi_A$ en $\varphi_B$ vindt men met behulp van 
 
 $$
 \begin{align*}
-EI \frac{dw}{dx} &=  +\frac{1}{6}qx^3 - \frac{1}{4}qlx^2 + \frac{1}{24}ql^3 \\
-\frac{dw}{dx} &=  +\frac{1q}{6EI}x^3 - \frac{1ql}{4EI}x^2 + \frac{1ql^3}{24EI} \\
+EI \frac{dw}{dx} &=  -\frac{1}{6}qx^3 + \frac{1}{4}qlx^2 - \frac{1}{24}ql^3 \\
+\frac{dw}{dx} &=  -\frac{1q}{6EI}x^3 + \frac{1ql}{4EI}x^2 - \frac{1ql^3}{24EI} \\
 \varphi = - \frac{dw}{dx} &=   -\frac{1q}{6EI}x^3 + \frac{1ql}{4EI}x^2 - \frac{1ql^3}{24EI} \\
 \varphi & = +\frac{ql^3}{24EI}\Bigg[ -4\frac{x^3}{l^3} + 6\frac{x^2}{l^2} - 1\Bigg]\\
 \end{align*}\\
 $$
 
-De rotatie $\varphi_A$  in oplegging A kan nu gevonden worden met;\\
+De rotatie $\varphi_A$  in oplegging A kan nu gevonden worden met;
 
-x = 0 \\
+$x = 0$
 
 $$
 \begin{align*}
@@ -171,7 +171,7 @@ $$
 
 De rotatie $\varphi_B$  in oplegging B kan nu gevonden worden met;\\
 
-x = L \\
+$x = l$
 
 $$
 \begin{align*}
