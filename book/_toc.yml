@@ -7,6 +7,5 @@ parts:
     - file: H1/H1_0_intro
       sections:
       - file: H1/uitwerkingen_les3
-      - file: H1/uitwerkingen_les3
 
     
