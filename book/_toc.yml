@@ -14,7 +14,7 @@ parts:
     - file: H2/H2_0_intro
 
     - file: H3/H3_0_intro
-      section:
+      sections:
     - file: H3/Opgave_les3_1.ipynb
 
     - file: H4/H4_0_intro
