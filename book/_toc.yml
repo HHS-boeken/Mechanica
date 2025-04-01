@@ -17,6 +17,8 @@ parts:
       sections:
       - file: H3/Opgave_les3_1.ipynb
       - file: H3/Opgave_les3_2.ipynb
+      - file: H3/Opgave_les3_3.ipynb
+      - file: H3/Opgave_les3_4.ipynb
 
     - file: H4/H4_0_intro
 
