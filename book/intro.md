@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# Welkom bij de cursus <br> **Mechanica 4**
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Dit is de `2024-2025`-versie van het leerboek. 
