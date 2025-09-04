@@ -9,7 +9,7 @@ width: 70%
 name: demoexample1
 align: center
 ---
-Figuur 1: width (70%) as percentage, align center
+F2.2 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
 
 ## Opgave 2 (2.16)
@@ -21,7 +21,7 @@ width: 70%
 name: demoexample1
 align: center
 ---
-Figuur 2: width (70%) as percentage, align center
+2.15 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
 
 ## Opgave 3 (F2.8)
@@ -33,7 +33,7 @@ width: 70%
 name: demoexample1
 align: center
 ---
-Figuur 3: width (70%) as percentage, align center
+F2.8 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
 
 ## Opgave 4 (F2.10)
@@ -45,5 +45,5 @@ width: 70%
 name: demoexample1
 align: center
 ---
-Figuur 4: width (70%) as percentage, align center
+F2.10 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
