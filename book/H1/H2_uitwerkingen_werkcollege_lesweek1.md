@@ -57,14 +57,17 @@ F_{res;y} &=  F_{1;y} + F_{2;y} \\
 & = 569.85
 \end{align}
 
-Bepaal de resultante kracht $F_{res}$:
+Bepaal de grootte van de resultante kracht $F_{res}$:
 \begin{align}
 F_{res} &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
 & = \sqrt{ (344.22)^2 + (569.85)^2 } \\
 & = 665.75 N
 \end{align}
 
-
+Bepaal de richting van de resultante kracht $F_{res}$:
+\tan &\phi = dfrac{F_{res;y}}{F_{res;x}} \\
+phi &=  \tan^{-1} (dfrac{F_{res;y}}{F_{res;x}}) \\
+&= graden
 ```
 ````
 
