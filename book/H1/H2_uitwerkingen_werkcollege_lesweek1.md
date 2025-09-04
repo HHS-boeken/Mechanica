@@ -251,28 +251,41 @@ $$
 
 Ontbind de kracht $F_1$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
-F_{1;x} &=  F_1 \cdot \sin (\phi) \\
-& = 8 \cdot \sin (\phi) \\
-& =  \text{N}
+F_{1;x} &=  F_1 \cdot \cos (45) \\
+& = 600 \cdot \cos (45) \\
+& = 424.26 \text{ N}
 \end{align}
 
 \begin{align}
-F_{A;y} &=  F_1 \cdot \cos (\phi) \\
-& = 8 \cdot \cos (\phi) \\
-& =  \text{N}
+F_{1;y} &=  F_1 \cdot \sin (45) \\
+& = 600 \cdot \sin (45) \\
+& = 424.26  \text{N}
 \end{align}
 
-Ontbind de kracht $F_B$ in $F_{B;x}$ en $F_{B;y}$ :
+Ontbind de kracht $F_2$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
-F_{B;x} &=  F_B \cdot \sin (40) \\
-& = 6 \cdot \sin (40) \\
-& = 3.86 \text{kN}
+F_{2;x} &=  F_2 \cdot \cos (\phi) \\
+& = F_2 \cdot \cos (\phi)
 \end{align}
 
 \begin{align}
-F_{B;y} &=  F_B \cdot \cos (40) \\
-& = 6 \cdot \cos (40) \\
-& = 4.60 \text{kN}
+F_{2;y} &=  F_2 \cdot \sin (\phi) \\
+& = F_2 \cdot \sin (\phi) \\
+\end{align}
+
+Ontbind de kracht $F_3$ in $F_{3;x}$ en $F_{3;y}$ :
+\begin{align}
+\dfrac{F_3;x}{5} = \dfrac{F_3}{13} \\
+F_{3;x} &=  F_3 \cdot \dfrac{5}{13} \\
+& = 325 \cdot \dfrac{5}{13} \\
+& = 125 \text{ N}
+\end{align}
+
+\begin{align}
+\dfrac{F_3;y}{12} = \dfrac{F_3}{13} \\
+F_{3;y} &=  F_3 \cdot \dfrac{12}{13} \\
+& = 325 \cdot \dfrac{12}{13} \\
+& = 300 \text{ N}
 \end{align}
 
 De resultante van $F_A$ en $F_B$ is naar rechts gericht dus $F_{res;y} = 0$
