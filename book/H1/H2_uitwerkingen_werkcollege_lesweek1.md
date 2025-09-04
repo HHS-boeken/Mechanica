@@ -66,9 +66,9 @@ F_{res} &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
 
 Bepaal de richting van de resultante kracht $F_{res}$:
 \begin{align}
-\tan &\phi = dfrac{F_{res;y}}{F_{res;x}} \\
-phi &=  \tan^{-1} (dfrac{F_{res;y}}{F_{res;x}}) \\
-phi &=  \tan^{-1} (dfrac{ 569.85}{ 344.22}) \\
+\tan &\phi = \dfrac{F_{res;y}}{F_{res;x}} \\
+\phi &=  \tan^{-1} (\dfrac{F_{res;y}}{F_{res;x}}) \\
+\phi &=  \tan^{-1} (\dfrac{ 569.85}{ 344.22}) \\
 &= 58.9 \text{graden}
 \end{align}
 ```
