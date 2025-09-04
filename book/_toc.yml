@@ -17,12 +17,12 @@ parts:
       #- file: H1/Opgave_les2_7.ipynb
       #- file: H1/Opgave_les2_8.ipynb
       
-      - file: H1/Opgave_les3.ipynb
+      #- file: H1/Opgave_les3.ipynb
 
     - file: H2/H2_0_intro
 
     - file: H3/H3_0_intro
-      sections:
+      #sections:
       #- file: H3/Opgave_les3_1.ipynb
       #- file: H3/Opgave_les3_2.ipynb
       #- file: H3/Opgave_les3_3.ipynb
