@@ -19,16 +19,20 @@ $$
 
 Ontbind de kracht $F_1$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align*}
-F_{1;x} &=  F_1 \cdot \cos (70)
-& = 500 \cdot \cos (70)
-& = 1 
+F_{1;x} &=  F_1 \cdot \cos (70) \\
+& = 500 \cdot \cos (70) \\
+& = 171.01 N \\
+\\
+F_{1;y} &=  F_1 \cdot \sin (70) \\
+& = 500 \cdot \sin (70) \\
+& = 469.85 N
 \end{align*}
 
 Ontbind de kracht $F_1$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align*}
-F_{2;x} &=  F_2 \cdot \cos (70)
-& = 500 \cdot \cos (70)
-& = 1 
+F_{2;x} &=  F_2 \cdot \cos (30) \\
+& = 200 \cdot \cos (30) \\
+& = 173.2
 \end{align*}
 
 Ontbind de teller en de noemer in factoren:
