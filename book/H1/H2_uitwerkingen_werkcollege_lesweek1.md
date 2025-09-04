@@ -5,13 +5,14 @@
 ````{admonition} Antwoord
 :class:  dropdown
 
-De vereenvoudige breuk is:
 
-$$
 \begin{align*}
- \dfrac{3ab^2c}{5d^2} \quad \text{als } a \neq 0, b \neq 0
+|\overrightarrow{F_{res}}| = 665.75 \text{ N}
 \end{align*}
-$$
+
+\begin{align*}
+\phi = 58.9 \text{ graden}
+\end{align*}
 
 ```{admonition} Uitwerking
 :class:  dropdown
