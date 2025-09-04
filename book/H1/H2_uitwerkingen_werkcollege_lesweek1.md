@@ -1,5 +1,4 @@
-# Uitwerkingen Werkcollege lesweek1
-
+# Werkcollege Uitwerkingen lesweek1
 
 ## Opgave 1 (F2.2)
 
@@ -300,7 +299,7 @@ De resultante van $F_1$, $F_2$ en $F_3$ ligt op de x-as dus $F_{res;y} = 0$. \
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
-0 & &= -424.26 + F_2 \cdot \sin (\phi) + 300   \\
+0 &= -424.26 + F_2 \cdot \sin (\phi) + 300   \\
 124.26 &= F_2 \cdot \sin (\phi)
 \end{align}
 
@@ -311,7 +310,7 @@ Substitutie van $F_2$ geeft:
 124.26 &= 200.74 \cdot \dfrac{\sin (\phi)}{\cos (\phi)} \\
 124.26 &= 200.74 \cdot \tan(\phi) \\
 \tan(\phi) &= \dfrac{ 124.26}{200.74} \\
-\phi &= \tan^{-1} (\dfrac{ 124.26}{200.74})
+\phi &= \tan^{-1} (\dfrac{ 124.26}{200.74}) \\
 &= 31.76 \text{ graden}
 \end{align}
 
