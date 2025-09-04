@@ -1,7 +1,7 @@
 # Uitwerkingen Werkcollege lesweek1
 
 
-## Opgave F2.2
+## Opgave 1 (F2.2)
 
 ````{admonition} Antwoord
 :class:  dropdown
@@ -77,7 +77,77 @@ Bepaal de richting van de resultante kracht $F_{res}$:
 <hr style="border:1px solid #9EA700">
 
 
-## Opgave F2.8
+
+## Opgave 2 (2.16)
+
+````{admonition} Antwoord
+:class:  dropdown
+
+De vereenvoudige breuk is:
+
+$$
+\begin{align*}
+ \dfrac{3ab^2c}{5d^2} \quad \text{als } a \neq 0, b \neq 0
+\end{align*}
+$$
+
+```{admonition} Uitwerking
+:class:  dropdown
+
+Ontbind de kracht $F_A$ in $F_{A;x}$ en $F_{A;y}$ :
+\begin{align}
+F_{A;x} &=  F_A \cdot \sin (\phi) \\
+& = 8 \cdot \sin (\phi) \\
+& =  \text{N}
+\end{align}
+
+\begin{align}
+F_{A;y} &=  F_1 \cdot \cos (\phi) \\
+& = 8 \cdot \cos (\phi) \\
+& =  \text{N}
+\end{align}
+
+Ontbind de kracht $F_B$ in $F_{B;x}$ en $F_{B;y}$ :
+\begin{align}
+F_{B;x} &=  F_B \cdot \sin (40) \\
+& = 6 \cdot \sin (40) \\
+& = 3.86 \text{kN}
+\end{align}
+
+\begin{align}
+F_{B;y} &=  F_B \cdot \cos (40) \\
+& = 6 \cdot \cos (40) \\
+& = 4.60 \text{kN}
+\end{align}
+
+De resultante van $F_A$ en $F_B$ is naar rechts gericht dus $F_{res;y} = 0$
+Bepaal de resultante kracht $F_{res;y}$:
+\begin{align}
+F_{res;y} &=  F_{A;y} + F_{B;y} \\
+0 & &= 8 \cdot \cos (\phi) - 4.60 \\
+4.60 &= 8 \cdot \cos (\phi) \\
+\cos (\phi) &= \dfrac{4.60}{8} \\
+\phi &= \cos^{-1} (\dfrac{-4.60}{8}) \\
+&= 54.9 \text{graden}
+\end{align}
+
+
+Bepaal de resultante kracht $F_{res;x}$:
+\begin{align}
+F_{res;x} &=  F_{A;x} + F_{B;x} \\
+& = 8 \cdot \sin (\phi) + 3.86 \\
+& = 8 \cdot \sin (54.9) + 3.86 \\
+& = 6.55 + 3.86
+& = 10.41 \text{N}
+\end{align}
+
+```
+````
+
+<hr style="border:1px solid #9EA700">
+
+
+## Opgave 3 (F2.8)
 
 ````{admonition} Antwoord
 :class:  dropdown
