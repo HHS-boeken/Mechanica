@@ -322,7 +322,6 @@ $\phi$ invullen geeft de grootte van F:
 F_2 &= \dfrac{124.26}{\sin (31.76) } \\
 &= 236.10 \text{ N}
 \end{align}
-
 ```
 ````
 
