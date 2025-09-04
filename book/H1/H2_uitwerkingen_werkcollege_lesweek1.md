@@ -5,7 +5,7 @@
 ````{admonition} Antwoord
 :class:  dropdown
 
-$$
+
 \begin{align*}
 |\overrightarrow{F_{res}}| = 665.75 \text{ N}
 \end{align*}
@@ -13,7 +13,7 @@ $$
 \begin{align*}
 \phi = 58.9 \text{ graden}
 \end{align*}
-$$
+
 
 ```{admonition} Uitwerking
 :class:  dropdown
@@ -154,7 +154,7 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 ````{admonition} Antwoord
 :class:  dropdown
 
-$$
+
 \begin{align*}
 |\overrightarrow{F_{res}}| = 567.26 \text{ N}
 \end{align*}
@@ -162,7 +162,7 @@ $$
 \begin{align*}
 \phi = 38.1 \text{ graden}
 \end{align*}
-$$
+
 
 
 ```{admonition} Uitwerking
@@ -245,7 +245,7 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 ````{admonition} Antwoord
 :class:  dropdown
 
-$$
+
 \begin{align*}
 |\overrightarrow{F_{2}}| = 236.10 \text{ N}
 \end{align*}
@@ -253,7 +253,7 @@ $$
 \begin{align*}
 \phi =  31.76 \text{ graden}
 \end{align*}
-$$
+
 
 ```{admonition} Uitwerking
 :class:  dropdown
