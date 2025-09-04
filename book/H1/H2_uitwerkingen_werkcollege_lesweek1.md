@@ -275,20 +275,20 @@ F_{2;y} &=  F_2 \cdot \sin (\phi) \\
 
 Ontbind de kracht $F_3$ in $F_{3;x}$ en $F_{3;y}$ :
 \begin{align}
-\dfrac{F_3;x}{5} = \dfrac{F_3}{13} \\
+\dfrac{F_3;x}{5} &= \dfrac{F_3}{13} \\
 F_{3;x} &=  F_3 \cdot \dfrac{5}{13} \\
 & = 325 \cdot \dfrac{5}{13} \\
 & = 125 \text{ N}
 \end{align}
 
 \begin{align}
-\dfrac{F_3;y}{12} = \dfrac{F_3}{13} \\
+\dfrac{F_3;y}{12} &= \dfrac{F_3}{13} \\
 F_{3;y} &=  F_3 \cdot \dfrac{12}{13} \\
 & = 325 \cdot \dfrac{12}{13} \\
 & = 300 \text{ N}
 \end{align}
 
-De resultante van $F_A$ en $F_B$ is naar rechts gericht dus $F_{res;y} = 0$
+De resultante van $F_1$, $F_2$ en $F_3$ ligt op de x-as dus $F_{res;y} = 0$. \
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{A;y} + F_{B;y} \\
