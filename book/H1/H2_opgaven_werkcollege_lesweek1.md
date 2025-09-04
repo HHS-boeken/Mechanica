@@ -5,7 +5,7 @@ Bepaal de grootte en de richting van de resultante kracht $\overrightarrow{F_{re
 
 ```{figure} ../figures/F2.2.jpg
 ---
-width: 70%
+width: 50%
 name: demoexample1
 align: center
 ---
@@ -41,7 +41,7 @@ Als de resultante kracht werkend op de beugel 750 N gericht langs de positieve x
 
 ```{figure} ../figures/F2.10.jpg
 ---
-width: 70%
+width: 50%
 name: demoexample1
 align: center
 ---
