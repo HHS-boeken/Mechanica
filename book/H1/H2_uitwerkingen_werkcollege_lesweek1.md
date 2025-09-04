@@ -251,7 +251,7 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 \end{align*}
 
 \begin{align*}
-\phi =  31.76 \text{ graden}
+\theta =  31.76 \text{ graden}
 \end{align*}
 
 
@@ -273,13 +273,13 @@ F_{1;y} &=   |\overrightarrow{F_1}|  \cdot \sin (45) \\
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
-F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (\phi) \\
-& = F_2 \cdot \cos (\phi)
+F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (\theta) \\
+& = F_2 \cdot \cos (\theta)
 \end{align}
 
 \begin{align}
-F_{2;y} &=   |\overrightarrow{F_2}|  \cdot \sin (\phi) \\
-& = F_2 \cdot \sin (\phi) \\
+F_{2;y} &=   |\overrightarrow{F_2}|  \cdot \sin (\theta) \\
+& = F_2 \cdot \sin (\theta) \\
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_3}$ in $F_{3;x}$ en $F_{3;y}$ :
@@ -300,33 +300,33 @@ F_{3;y} &=  |\overrightarrow{F_3}|  \cdot \dfrac{12}{13} \\
 De resultante kracht $F_{res;x}=750$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} + F_{3;x} \\
-750 &= 424.26 + |\overrightarrow{F_2}| \cdot \cos (\phi) + 125 \\
-200.74 &= |\overrightarrow{F_2}| \cdot \cos (\phi) \\
-|\overrightarrow{F_2}| &= \dfrac{200.74}{\cos (\phi)}
+750 &= 424.26 + |\overrightarrow{F_2}| \cdot \cos (\theta) + 125 \\
+200.74 &= |\overrightarrow{F_2}| \cdot \cos (\theta) \\
+|\overrightarrow{F_2}| &= \dfrac{200.74}{\cos (\theta)}
 \end{align}
 
 De resultante van $F_1$, $F_2$ en $F_3$ ligt op de x-as dus $F_{res;y} = 0$. \
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
-0 &= -424.26 + |\overrightarrow{F_2}| \cdot \sin (\phi) + 300   \\
-124.26 &= |\overrightarrow{F_2}| \cdot \sin (\phi)
+0 &= -424.26 + |\overrightarrow{F_2}| \cdot \sin (\theta) + 300   \\
+124.26 &= |\overrightarrow{F_2}| \cdot \sin (\theta)
 \end{align}
 
 Substitutie van $F_2$ geeft:
 \begin{align}
-124.26 &= |\overrightarrow{F_2}| \cdot \sin (\phi) \\
-124.26 &= \dfrac{200.74}{\cos (\phi)} \cdot \sin (\phi) \\
-124.26 &= 200.74 \cdot \dfrac{\sin (\phi)}{\cos (\phi)} \\
-124.26 &= 200.74 \cdot \tan(\phi) \\
-\tan(\phi) &= \dfrac{ 124.26}{200.74} \\
-\phi &= \tan^{-1} (\dfrac{ 124.26}{200.74}) \\
+124.26 &= |\overrightarrow{F_2}| \cdot \sin (\theta) \\
+124.26 &= \dfrac{200.74}{\cos (\theta)} \cdot \sin (\theta) \\
+124.26 &= 200.74 \cdot \dfrac{\sin (\theta)}{\cos (\theta)} \\
+124.26 &= 200.74 \cdot \tan(\theta) \\
+\tan(\theta) &= \dfrac{ 124.26}{200.74} \\
+\theta &= \tan^{-1} (\dfrac{ 124.26}{200.74}) \\
 &= 31.76 \text{ graden}
 \end{align}
 
-$\phi$ invullen geeft de grootte van F:
+$\theta$ invullen geeft de grootte van F:
 \begin{align}
-124.26 &= |\overrightarrow{F_2}| \cdot \sin (\phi) \\
+124.26 &= |\overrightarrow{F_2}| \cdot \sin (\theta) \\
 124.26 &= |\overrightarrow{F_2}| \cdot \sin (31.76) \\
 |\overrightarrow{F_2}| &= \dfrac{124.26}{\sin (31.76) } \\
 &= 236.10 \text{ N}
