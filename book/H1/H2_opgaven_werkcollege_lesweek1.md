@@ -9,7 +9,7 @@ width: 70%
 name: demoexample1
 align: center
 ---
-example 1: width (70%) as percentage, align center
+Figuur 1: width (70%) as percentage, align center
 ```
 
 ## Opgave 2 (2.16)
@@ -21,7 +21,7 @@ width: 70%
 name: demoexample1
 align: center
 ---
-example 1: width (70%) as percentage, align center
+Figuur 2: width (70%) as percentage, align center
 ```
 
 ## Opgave 3 (F2.8)
@@ -33,11 +33,11 @@ width: 70%
 name: demoexample1
 align: center
 ---
-example 1: width (70%) as percentage, align center
+Figuur 3: width (70%) as percentage, align center
 ```
 
 ## Opgave 4 (F2.10)
-Als de resultante kracht werkend op de beugel 750 N gericht langs de positieve x-as moet zijn, bepaal dan de grootte van $F$ en de richting.
+Als de resultante kracht werkend op de beugel 750 N gericht langs de positieve x-as moet zijn, bepaal dan de grootte van $\overrightarrow{F}$. en de richting.
 
 ```{figure} ../figures/F2.10.jpg
 ---
@@ -45,5 +45,5 @@ width: 70%
 name: demoexample1
 align: center
 ---
-example 1: width (70%) as percentage, align center
+Figuur 4: width (70%) as percentage, align center
 ```
