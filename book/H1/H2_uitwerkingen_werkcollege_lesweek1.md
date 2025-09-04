@@ -1,4 +1,4 @@
-# Werkcollege Uitwerkingen lesweek1
+# Uitwerkingen
 
 ## Opgave 1 (F2.2)
 
