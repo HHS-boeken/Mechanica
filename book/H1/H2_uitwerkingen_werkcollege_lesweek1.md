@@ -21,8 +21,10 @@ Ontbind de kracht $F_1$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=  F_1 \cdot \cos (70) \\
 & = 500 \cdot \cos (70) \\
-& = 171.01 \text{N} \\
-\\
+& = 171.01 \text{N}
+\end{align}
+
+\begin{align}
 F_{1;y} &=  F_1 \cdot \sin (70) \\
 & = 500 \cdot \sin (70) \\
 & = 469.85 N
@@ -35,14 +37,29 @@ F_{2;x} &=  F_2 \cdot \cos (30) \\
 & = 173.2
 \end{align}
 
-Bepaal de resultante kracht F_{res;x}:
+\begin{align}
+F_{2;y} &=  F_2 \cdot \sin (30) \\
+& = 200 \cdot \sin (30) \\
+& = 469.85 N
+\end{align}
 
 Bepaal de resultante kracht F_{res;x}:
+\begin{align}
+F_{res;x} &=  F_{1;x} + F_{2;x} \\
+& = 200 + 200 \\
+& = 173.2
+\end{align}
 
+Bepaal de resultante kracht F_{res;y}:
+\begin{align}
+F_{res;y} &=  F_{1;y} + F_{2;y} \\
+& = 200 + 200 \\
+& = 173.2
+\end{align}
 
 Bepaal de resultante kracht F_{res}:
 \begin{align}
-F_{res} &= \sqrt{(F_{res;x})^2 + (F_{res;x})^2 } \\
+F_{res} &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
 & = 200 \cdot \cos (30) \\
 & = 173.2
 \end{align}
