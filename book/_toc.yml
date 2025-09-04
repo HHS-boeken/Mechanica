@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Opgaven en Uitwerkingen lessen
+  - caption: Werkcollege - Opgaven en Uitwerkingen 
     chapters:
     - file: H1/H1_0_intro
       sections:
