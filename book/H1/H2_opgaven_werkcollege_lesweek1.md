@@ -1,7 +1,10 @@
-# Opgave Werkcollege lesweek1
+# Uitwerkingen Werkcollege lesweek1
 
 ## Opgave 1
 Bepaal de grootte en de richting van de resultante kracht $F_{res}$.
+
+
+
 
 ## Opgave 2
 Bepaal de grootte en de richting van de resultante kracht $F_{res}$.
