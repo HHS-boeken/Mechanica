@@ -288,25 +288,39 @@ F_{3;y} &=  F_3 \cdot \dfrac{12}{13} \\
 & = 300 \text{ N}
 \end{align}
 
+De resultante kracht $F_{res;x}=750$:
+\begin{align}
+F_{res;x} &=  F_{1;x} + F_{2;x} + F_{3;x} \\
+750 &= 424.26 + F_2 \cdot \cos (\phi) + 125 \\
+200.74 &= F_2 \cdot \cos (\phi) \\
+F_2 &= \dfrac{200.74}{\cos (\phi)}
+\end{align}
+
 De resultante van $F_1$, $F_2$ en $F_3$ ligt op de x-as dus $F_{res;y} = 0$. \
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-F_{res;y} &=  F_{A;y} + F_{B;y} \\
-0 & &= 8 \cdot \cos (\phi) - 4.60 \\
-4.60 &= 8 \cdot \cos (\phi) \\
-\cos (\phi) &= \dfrac{4.60}{8} \\
-\phi &= \cos^{-1} (\dfrac{-4.60}{8}) \\
-&= 54.9 \text{graden}
+F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
+0 & &= -424.26 + F_2 \cdot \sin (\phi) + 300   \\
+124.26 &= F_2 \cdot \sin (\phi)
 \end{align}
 
-
-Bepaal de resultante kracht $F_{res;x}$:
+Substitutie van $F_2$ geeft:
 \begin{align}
-F_{res;x} &=  F_{A;x} + F_{B;x} \\
-& = 8 \cdot \sin (\phi) + 3.86 \\
-& = 8 \cdot \sin (54.9) + 3.86 \\
-& = 6.55 + 3.86
-& = 10.41 \text{N}
+124.26 &= F_2 \cdot \sin (\phi) \\
+124.26 &= \dfrac{200.74}{\cos (\phi)} \cdot \sin (\phi) \\
+124.26 &= 200.74 \cdot \dfrac{\sin (\phi)}{\cos (\phi)} \\
+124.26 &= 200.74 \cdot \tan(\phi) \\
+\tan(\phi) &= \dfrac{ 124.26}{200.74} \\
+\phi &= \tan^{-1} (\dfrac{ 124.26}{200.74})
+&= 31.76 \text{ graden}
+\end{align}
+
+$\phi$ invullen geeft de grootte van F:
+\begin{align}
+124.26 &= F_2 \cdot \sin (\phi) \\
+124.26 &= F_2 \cdot \sin (31.76) \\
+F_2 &= \dfrac{124.26}{\sin (31.76) } \\
+&= 236.10 \text{ N}
 \end{align}
 
 ```
